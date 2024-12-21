@@ -9,7 +9,6 @@ type	theme	title	price	sales	user_comment_date	user_buy_type	user_content	user_a
 该数据中存在一定的脏数据，需要进行相应的清理才可继续使用，详情请查看数据集了解。
 > 字段解释
 
-字段	解释
 type	类别
 theme	主题
 title	标题
